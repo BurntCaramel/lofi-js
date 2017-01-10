@@ -1,0 +1,15 @@
+{
+  "name": "lofi",
+  "version": "0.1.0",
+  "description": "Format data using #hashtags",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:RoyalIcing/lofi-js.git",
+    "type": "git"
+  },
+  "author": "Patrick Smith <patrick@burntcaramel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
