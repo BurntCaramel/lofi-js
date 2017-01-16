@@ -9,7 +9,13 @@
   },
   "author": "Patrick Smith <patrick@burntcaramel.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
   "dependencies": {
     "ramda": "^0.23.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0"
   }
 }
