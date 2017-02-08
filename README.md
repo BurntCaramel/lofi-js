@@ -33,3 +33,7 @@ parseElement('Hello @first-name, how are you?')
   children: []
 } */
 ```
+
+## Demos
+
+- [Interactive demo of parseElement](http://codepen.io/burntcaramel/pen/apaKVL?editors=0010)
